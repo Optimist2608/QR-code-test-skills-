@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Outfit-Bold';
+    font-family: 'Outfit-Bold', sans-serif;
     src:
     local('Outfit-Bold'),
     url('./fonts/Outfit-Bold.woff2') format('woff2'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: 'Outfit-Regular';
+    font-family: 'Outfit-Regular', sans-serif;
     src:
     local('Outfit-Regular'),
     url('./fonts/Outfit-Regular.woff2') format('woff2'),
